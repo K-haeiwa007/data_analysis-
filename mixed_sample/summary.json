@@ -1,0 +1,14 @@
+{
+  "rows_read": 10000,
+  "points": 10000,
+  "points_without_trip_key": 4230,
+  "total_trips": 191,
+  "repeated_trips": 191,
+  "mixed_code_trips": 0,
+  "multiple_known_mode_trips": 0,
+  "sample_limit": 10000,
+  "valid_distance_trips": 0,
+  "mean_straight_km": null,
+  "valid_duration_trips": 0,
+  "mean_minutes": null
+}
